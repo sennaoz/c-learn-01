@@ -8,12 +8,11 @@ namespace operatorler
 
         {
             int sayi1 = 5;
-            int sayi2 = 10;
-            int sonuc = sayi1 * sayi2;
-            int sonuc1 = sayi2 / sayi1;
+            int sayi2 = 6;
            
-            Console.WriteLine(sonuc);
-            Console.WriteLine(sonuc1);
+           
+            Console.WriteLine(sayi2%sayi1);
+           
             
             Console.ReadLine();
 
