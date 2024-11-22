@@ -1,18 +1,18 @@
 ﻿using System;
-namespace learn
+namespace Veritipleri
 {
 
  class Program
     {
         static void Main(string[] args)
         {
-            byte birinci = 5;
-            byte maxdeger = byte.MaxValue;
-            byte mindeger = byte.MinValue;
+            short birinci = -50;
+            short maxdeger = short.MaxValue;
+            short mindeger = short.MinValue;
 
             Console.WriteLine(birinci);
-            Console.WriteLine(maxdeger); //255
-            Console.WriteLine(mindeger); //0
+            Console.WriteLine(maxdeger); //32767
+            Console.WriteLine(mindeger); //-32767
 
 
             Console.ReadLine();
