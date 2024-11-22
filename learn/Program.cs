@@ -7,13 +7,10 @@ namespace operatorler
         static void Main(string[] args)
 
         {
+            // atama operatörü = 
             int sayi1 = 10;
-            int sayi2 = 20;
-            sayi1++;
-            sayi2--;
-                     
-            Console.WriteLine(sayi1);// arttırma
-            Console.WriteLine(sayi2);// azaltma
+            
+            Console.WriteLine(sayi1);//
            
             
             Console.ReadLine();
