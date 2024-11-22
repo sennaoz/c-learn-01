@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TurDonusumleri
+namespace ifelse
 {
 
  class Program
@@ -7,16 +7,19 @@ namespace TurDonusumleri
         static void Main(string[] args)
 
         {
-            Console.WriteLine("yas giriniz:");
-            string kullaniciyas = Console.ReadLine();//kullanıcıdan alınan değer string olur
+            Console.WriteLine("ogrenci not gir:");
+            string not = Console.ReadLine();
+            int notint = Convert.ToInt32(not);
+            if (notint>50)
+            {
+                Console.WriteLine("ögrenci dersten geçti");
+            }
+            else
+            {
+                Console.WriteLine("ögrenci dersten kaldı");
+            }
 
-            int kullaniciyasInt = int.Parse(kullaniciyas);
-            int kullaniciyasInt2 = Convert.ToInt32(kullaniciyas);
-
-
-            Console.WriteLine(kullaniciyasInt);
-
-            Console.WriteLine(kullaniciyasInt2);
+            Console.WriteLine();
 
             Console.ReadLine();
 
