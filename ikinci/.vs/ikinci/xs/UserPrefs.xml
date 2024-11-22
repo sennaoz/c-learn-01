@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{58CC0CA7-0D7B-408C-8FF0-C80493FE76C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.uc FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ikinci/Program.cs">
+    <Files>
+      <File FileName="ikinci/Program.cs" Line="3" Column="1" IsPinned="True" />
+      <File FileName="uc/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ikinci" expanded="True">
+            <Node name="ikinci" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="uc" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ikinci FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/sena/Projects/learn/learn/bin/Debug/net7.0/learn
+/Users/sena/Projects/learn/learn/bin/Debug/net7.0/learn.deps.json
+/Users/sena/Projects/learn/learn/bin/Debug/net7.0/learn.runtimeconfig.json
+/Users/sena/Projects/learn/learn/bin/Debug/net7.0/learn.dll
+/Users/sena/Projects/learn/learn/bin/Debug/net7.0/learn.pdb
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.csproj.AssemblyReference.cache
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.AssemblyInfoInputs.cache
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.AssemblyInfo.cs
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.csproj.CoreCompileInputs.cache
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.dll
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/refint/learn.dll
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.pdb
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/learn.genruntimeconfig.cache
+/Users/sena/Projects/learn/learn/obj/Debug/net7.0/ref/learn.dll
