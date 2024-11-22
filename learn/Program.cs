@@ -7,14 +7,17 @@ namespace operatorler
         static void Main(string[] args)
 
         {
-            // değil operatörü !
-
-
-            bool a = true;
+            // += -= /= *=
+            int sayi1 = 10;
+            int sayi2 = 20;
+            sayi2 += 5;
+            sayi1 *= 6;
+           
                      
-            Console.WriteLine(!a);
-            
-            
+            Console.WriteLine(sayi2);
+            Console.WriteLine(sayi1);
+
+
             Console.ReadLine();
 
 
