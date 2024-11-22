@@ -5,11 +5,12 @@ namespace Veritipleri
  class Program
     {
         static void Main(string[] args)
+
         {
-            string isim = "sena";
+            bool sonuc=4 > 10;
             
 
-            Console.WriteLine(isim);
+            Console.WriteLine(sonuc);
             
 
             Console.ReadLine();
