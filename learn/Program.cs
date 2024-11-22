@@ -6,13 +6,13 @@ namespace Veritipleri
     {
         static void Main(string[] args)
         {
-            short birinci = -50;
-            short maxdeger = short.MaxValue;
-            short mindeger = short.MinValue;
+            int birinci = -50;
+            int maxdeger = int.MaxValue;
+            int mindeger = int.MinValue;
 
             Console.WriteLine(birinci);
-            Console.WriteLine(maxdeger); //32767
-            Console.WriteLine(mindeger); //-32767
+            Console.WriteLine(maxdeger); //2147483647
+            Console.WriteLine(mindeger); //-2147483647
 
 
             Console.ReadLine();
