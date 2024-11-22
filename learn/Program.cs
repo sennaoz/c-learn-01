@@ -6,10 +6,10 @@ namespace Veritipleri
     {
         static void Main(string[] args)
         {
-            char karakter = 'G';
+            string isim = "sena";
             
 
-            Console.WriteLine(karakter);
+            Console.WriteLine(isim);
             
 
             Console.ReadLine();
