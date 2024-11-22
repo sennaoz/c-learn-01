@@ -7,12 +7,13 @@ namespace TurDonusumleri
         static void Main(string[] args)
 
         {
-            int a = 5;
+            string sayi1 = "1";
+            string sayi2 = "2";
+            int a = int.Parse(sayi1);
+            int b = int.Parse(sayi2);
 
-            byte b = (byte)a;
-
-            Console.WriteLine(b.GetType());
-            Console.WriteLine(b);
+            Console.WriteLine(sayi1+sayi2);
+            Console.WriteLine(a+b);
 
             Console.ReadLine();
 
