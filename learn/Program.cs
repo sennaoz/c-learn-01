@@ -7,10 +7,10 @@ namespace operatorler
         static void Main(string[] args)
 
         {
-            // eşittir  değildir operatörü !=
+            // büyüktür operatörü >  büyük ve eşittir >=
             int sayi1 = 10;
             int sayi2 = 20;
-            bool kontrol = sayi1 != sayi2; // eşit  değil mi kontrol eder eşitese True değilse False döndürür
+            bool kontrol = sayi1 > sayi2; // kpntrol et True   değilse False döndürür
            
                      
             Console.WriteLine(kontrol);
