@@ -7,11 +7,12 @@ namespace Veritipleri
         static void Main(string[] args)
 
         {
-            bool sonuc=4 > 10;
+            object sayi = 5;
+            object isim = "sena";
             
 
-            Console.WriteLine(sonuc);
-            
+            Console.WriteLine(sayi);
+            Console.WriteLine(isim);
 
             Console.ReadLine();
 
