@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Veritipleri
+namespace operatorler
 {
 
  class Program
@@ -7,13 +7,15 @@ namespace Veritipleri
         static void Main(string[] args)
 
         {
-            object sayi = 5;
-            object isim = "sena";
+            int sayi1 = 5;
+            int sayi2 = 10;
+            int sonuc = sayi1 + sayi2;
+            int sonuc1 = sayi1 - sayi2;
             
 
-            Console.WriteLine(sayi);
-            Console.WriteLine(isim);
-
+            Console.WriteLine(sonuc);
+            Console.WriteLine(sonuc1);
+            
             Console.ReadLine();
 
 
