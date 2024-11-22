@@ -1,5 +1,5 @@
 ﻿using System;
-namespace operatorler
+namespace BreakpointveTooltip
 {
 
  class Program
@@ -7,18 +7,16 @@ namespace operatorler
         static void Main(string[] args)
 
         {
-            // += -= /= *=
-            int sayi1 = 10;
-            int sayi2 = 20;
-            sayi2 += 5;
-            sayi1 *= 6;
-           
-                     
-            Console.WriteLine(sayi2);
-            Console.WriteLine(sayi1);
+            Console.WriteLine("isim gir:");
+            string isim = Console.ReadLine();
 
+            Console.WriteLine("soyisimi  gir:");
+            string soyisim = Console.ReadLine();
 
+            Console.WriteLine("kullanıcının ismi soyismi:" + isim +soyisim );
             Console.ReadLine();
+
+            
 
 
         }
