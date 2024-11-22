@@ -1,5 +1,5 @@
 ﻿using System;
-namespace BreakpointveTooltip
+namespace TurDonusumleri
 {
 
  class Program
@@ -7,13 +7,13 @@ namespace BreakpointveTooltip
         static void Main(string[] args)
 
         {
-            Console.WriteLine("isim gir:");
-            string isim = Console.ReadLine();
+            int a = 5;
 
-            Console.WriteLine("soyisimi  gir:");
-            string soyisim = Console.ReadLine();
+            byte b = (byte)a;
 
-            Console.WriteLine("kullanıcının ismi soyismi:" + isim +soyisim );
+            Console.WriteLine(b.GetType());
+            Console.WriteLine(b);
+
             Console.ReadLine();
 
             
