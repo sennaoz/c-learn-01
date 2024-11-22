@@ -7,14 +7,16 @@ namespace TurDonusumleri
         static void Main(string[] args)
 
         {
-            int sayi1 = 5;
-            int sayi2 = 10;
+            Console.WriteLine("yas giriniz:");
+            string kullaniciyas = Console.ReadLine();//kullanıcıdan alınan değer string olur
 
-            string a = sayi1.ToString();
-            string b = sayi2.ToString();
+            int kullaniciyasInt = int.Parse(kullaniciyas);
+            int kullaniciyasInt2 = Convert.ToInt32(kullaniciyas);
 
-            Console.WriteLine(sayi1+sayi2);
-            Console.WriteLine(a+b);
+
+            Console.WriteLine(kullaniciyasInt);
+
+            Console.WriteLine(kullaniciyasInt2);
 
             Console.ReadLine();
 
