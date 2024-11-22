@@ -7,10 +7,10 @@ namespace operatorler
         static void Main(string[] args)
 
         {
-            // büyüktür operatörü >  büyük ve eşittir >=
-            int sayi1 = 10;
+            // küçüktür operatörü < küçük ve eşittir <=
+            int sayi1 = 20;
             int sayi2 = 20;
-            bool kontrol = sayi1 > sayi2; // kpntrol et True   değilse False döndürür
+            bool kontrol = sayi1<=sayi2; // kontrol et True   değilse False döndürür
            
                      
             Console.WriteLine(kontrol);
